@@ -1,0 +1,11 @@
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+aiohttp>=3.9.0
+pydantic>=2.0.0
+streamlit
+plotly
+aiohttp
+python-dotenv
+google-genai
+pydantic
